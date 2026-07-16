@@ -1,1 +1,0 @@
-Place the flower dataset inside this folder before running the project.
